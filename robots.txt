@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://berlinwibi.github.io/handbook-h2899t/sitemap.xml
